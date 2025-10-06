@@ -1,6 +1,10 @@
 # 🌸 Iris Flower Classification Project  
 **Internship Project – Unified Mentor**
 
+![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
+
+<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
+
 ---
 
 ## 🧩 Problem Statement
