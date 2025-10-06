@@ -1,15 +1,17 @@
 # 🌸 Iris Flower Classification Project  
 **Internship Project – Unified Mentor**
 
-![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
-<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
 ---
 
 ## 🧩 Problem Statement
 
 The iris flower, scientifically known as *Iris*, is a distinctive genus of flowering plants. Within this genus, there are three primary species: **Iris Setosa**, **Iris Versicolor**, and **Iris Virginica**. These species exhibit variations in their physical characteristics, particularly in the measurements of **sepal length**, **sepal width**, **petal length**, and **petal width**.
+
+![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
+
+<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
 ---
 
