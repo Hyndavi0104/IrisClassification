@@ -1,4 +1,5 @@
-# 🌸 Iris Flower Classification Project
+# 🌸 Iris Flower Classification Project  
+**Internship Project – Unified Mentor**
 
 ---
 
@@ -76,3 +77,8 @@ The **tuned Random Forest model** was selected as the final prediction model for
 
 ✅ **Final Note:**  
 This project successfully demonstrates the **machine learning workflow**: data exploration, preprocessing, model training, evaluation, and tuning, providing insights into feature importance for classification tasks.
+
+---
+
+## 👩‍💻 Author
+**Hyndavi Thota**  
